@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #888;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  section {
+    margin: 20px;
+  }
+  
+  footer {
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 7px;
+  }
+  
+  a {
+    color: #fff;
+    text-decoration: Arial;
+  }
